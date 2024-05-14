@@ -7,7 +7,7 @@ This is a simple Telegram bot built with Python using the aiogram library to fet
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/yourusername/instagram-followers-bot.git
+    git clone [https://github.com/yourusername/instagram-followers-bot.git](https://github.com/awexeoz/Instaloader)
     ```
 
 2. **Install the required dependencies:**
